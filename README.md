@@ -1,6 +1,6 @@
 # React-Redux Counter App
 
-This is an example project for the article ["Getting Started with Redux in React JS: a Beginner's Guide"](#). It demonstrates how to use Redux with React to create a simple counter app.
+This is an example project for the article ["Getting Started with Redux in React JS: a Beginner's Guide"](https://nicolasmilliard.fr/post/redux-react-js-beginner-guide). It demonstrates how to use Redux with React to create a simple counter app.
 
 ## Installation
 
@@ -10,6 +10,7 @@ To run this project locally, you will need to have Node.js and npm (or yarn) ins
 
 ```sh
 git clone https://github.com/NicolasMilliard/redux-counter.git
+cd redux-counter
 ```
 
 **Install dependencies**
@@ -44,6 +45,6 @@ This will start the app in development mode and open it in your default browser 
 
 To learn more about React and Redux, check out the following resources:
 
-- [React Documentation](#https://react.dev/)
-- [Redux Documentation](#https://redux.js.org/)
-- [Getting Started with Redux in React JS: a Beginner's Guide](#)
+- [React Documentation](https://react.dev/)
+- [Redux Documentation](https://redux.js.org/)
+- [Getting Started with Redux in React JS: a Beginner's Guide](https://nicolasmilliard.fr/post/redux-react-js-beginner-guide)
