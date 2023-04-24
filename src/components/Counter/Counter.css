@@ -1,0 +1,15 @@
+.counter-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.counter-button {
+  width: 32px;
+  height: 32px;
+}
+
+.counter-value {
+  margin-left: 24px;
+  margin-right: 24px;
+}
